@@ -1,6 +1,7 @@
 <h1>Репозиторий netology_homework_html-css-javascript</h1>
 <h4>И выполненные мной домашние задания по предметам html&amp;css&amp;javascript</h4>
 <br><h3>Домашние задания для курса «HTML-верстка: с нуля до первого макета»</h3> 
+
 <span>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)

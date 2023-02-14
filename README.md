@@ -1,7 +1,7 @@
 <h1>Репозиторий netology_homework_html-css-javascript</h1>
-<h3>И выполненные мной домашние задания по предметам html&amp;css&amp;javascript</h3>
+<h4>И выполненные мной домашние задания по предметам html&amp;css&amp;javascript</h4>
 
-<br><h2>Домашние задания для курса «HTML-верстка: с нуля до первого макета»</h2>
+<br><h3>Домашние задания для курса «HTML-верстка: с нуля до первого макета»</h3>
 <br><a href="https://github.com/Dmitry-A-K/netology_homework_html-css-javascript/tree/main/1.1.-introduction-html-css">1.1 Введение в верстку</a>
 <br><a href="https://github.com/Dmitry-A-K/netology_homework_html-css-javascript/tree/main/1.2.-content-tags">1.2 Контентные теги</a>
 <br><a href="https://github.com/Dmitry-A-K/netology_homework_html-css-javascript/tree/main/1.3.-content-structure-tags">1.3 Теги для верстки структуры контента</a>

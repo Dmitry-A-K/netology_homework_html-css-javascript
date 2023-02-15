@@ -1,0 +1,102 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+.work{
+  font-weight: bold;
+  color: crimson;
+  background-color: blanchedalmond;
+  margin: 80px;
+}
+
+    .dz1 {
+      width: 80%;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    .dz1 p {
+    }
+    .dz1 h1 {
+      
+    }
+    .dz1 h2 {
+      
+    }
+    .dz1 h3 {
+
+    }
+    .dz1 h4 {
+      
+    }
+    .dz1__text_bold {
+      color: blue;
+      font-weight: bold;
+    }
+    .dz1__link_self {
+      color: #a6caf0;
+      font-weight: bold;  
+    }
+    .dz1__list {
+  
+    }
+    .dz1__list_first {
+  
+    }
+    .dz1__list_last {
+  
+    }
+
+
+    .dz2 {
+      width: 80%;
+      margin-left: auto;
+      margin-right: auto;
+    }  
+    .dz2__picture {
+      float: left;
+      margin: 30px;
+      padding: 10px;
+      border:  5px solid;
+      border-color:  #b3b3b3;
+    }
+
+
+    .dz3 {
+      width: 75%;
+      margin-left: auto;
+      margin-right: auto;
+      line-height: 26px;
+    }
+    .dz3__list {
+      line-height: 22px;
+    }
+    .dz3__link_self {
+      color: #a6caf0;
+      font-weight: bold;        
+    }
+    .dz3__picture--cathedral {
+      float: right;
+      margin-top: 20px;
+      margin-bottom: 20px;
+      margin-left: 40px;
+      margin-right: 0px;
+      padding: 18px;
+      border:  2px solid;
+      border-color:  #e0e4e8;
+    }
+    .dz3__picture--nasdaq {
+      float: left;
+      margin-top: 20px;
+      margin-bottom: 20px;
+      margin-left: 0px;
+      margin-right: 40px;
+      padding: 18px;
+      border:  2px solid;
+      border-color:  #e0e4e8;
+    }
+    .dz3__picture--caption {
+      text-align: center;
+      margin-top: 10px;
+      font-size: 13px;
+    }

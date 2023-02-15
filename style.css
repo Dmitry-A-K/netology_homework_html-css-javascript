@@ -13,7 +13,7 @@ html, body {
   --dz2-img-background: #fce5a4;
 }
 
-.list {
+.homework_list {
   display: flex;
   flex-wrap: wrap;
   padding: 30px;
@@ -23,10 +23,19 @@ html, body {
   margin-right: auto;
   box-shadow: 6px 6px 2px 1px var(--dz2-article-shadow);
 }
+.homework_head {
+  width: 100%;
+  color: DarkSalmon;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
 
 .homework_link {
   width: 100%;
-  text-align: center;
-  outline: none;
   text-decoration: none;
+  color: coral;
+  font-size: 20px;
+}
+.homework_link:hover {
+  text-decoration: underline;
 }

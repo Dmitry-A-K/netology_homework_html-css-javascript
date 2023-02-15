@@ -1,10 +1,11 @@
-<h2>Репозиторий netology_homework_html-css-javascript</h2>
-<h4>И выполненные мной домашние задания по предметам</h4>
+<h2><ins>мой</ins> репозиторий "netology_homework_html-css-javascript"</h2>
+<h6>содержащий практические задания собранные из различных курсов и предназначенные для практики студентов</h6>
+<h4>а также выполненные <ins>мной</ins> домашнии задания по предметам</h4>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white)
 
 <br><h3>Домашние задания для курса «HTML-верстка: с нуля до первого макета»</h3>
-<span>![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)</span><br>
+<span>![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)</span><br>
 
 <br><a href="https://github.com/Dmitry-A-K/netology_homework_html-css-javascript/tree/main/1.1.-introduction-html-css">1.1 Введение в верстку</a>
 <br><a href="https://github.com/Dmitry-A-K/netology_homework_html-css-javascript/tree/main/1.2.-content-tags">1.2 Контентные теги</a>

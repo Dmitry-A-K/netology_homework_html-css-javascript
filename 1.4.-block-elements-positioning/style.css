@@ -9,7 +9,9 @@ html, body {
   font-weight: bold;
   color: crimson;
   background-color: blanchedalmond;
-  margin: 80px;
+  margin: 10%;
+  margin-top: 20px;
+  padding: 10px;
   border-bottom: 3px solid #2ec548;
 }
 :root {

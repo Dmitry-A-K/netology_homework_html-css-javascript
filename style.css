@@ -5,6 +5,13 @@ html, body {
   padding:0px;
   margin:0px;
 }
+.work{
+  font-weight: bold;
+  color: crimson;
+  background-color: blanchedalmond;
+  margin: 80px;
+  border-bottom: 3px solid #2ec548;
+}
 :root {
   --dz1-border-color: #d9dbf5;
   --dz1-speaker-color: #d5d5d5;
@@ -12,6 +19,7 @@ html, body {
   --dz2-article-shadow: #d5d5d5;
   --dz2-img-background: #fce5a4;
 }
+
 
 .homework_list {
   display: flex;

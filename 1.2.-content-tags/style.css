@@ -1,14 +1,25 @@
 html, body {
   height: 100%;
   width: 100%;
+  background-color: #ededed;
+  padding:0px;
+  margin:0px;
 }
-
 .work{
   font-weight: bold;
   color: crimson;
   background-color: blanchedalmond;
   margin: 80px;
+  border-bottom: 3px solid #2ec548;
 }
+:root {
+  --dz1-border-color: #d9dbf5;
+  --dz1-speaker-color: #d5d5d5;
+  --dz2-article-background: white;
+  --dz2-article-shadow: #d5d5d5;
+  --dz2-img-background: #fce5a4;
+}
+
 
     .dz1 {
       width: 80%;
